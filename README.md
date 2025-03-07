@@ -8,3 +8,6 @@ It is a way to force a class to define methods signatures, it meants, to define 
 
 <h2>Traits</h2>
 It is a way to reuse code or use code in several independent classes.
+
+<h2>Abstract Class</h2>
+It is a way to provide a base code for children clases to implement or override (specialize)
